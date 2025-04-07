@@ -5,7 +5,7 @@ This repository contains illustrative Jupyter notebooks that can be used to gene
 > **Limits to the Estimation of Old Streamwater in Catchments Using Environmental Tracers**  
 > Raphaël Miazza and Paolo Benettin  
 > Institute of Earth Surface Dynamics, Université de Lausanne, Switzerland  
-> _Submitted to Water Resources Research, 2025_  
+> _Submitted, 2025_  
 > [DOI or Preprint Link, when available]
 
 ---
