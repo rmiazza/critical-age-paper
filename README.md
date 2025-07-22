@@ -6,7 +6,7 @@ This repository contains illustrative Jupyter notebooks that can be used to gene
 > Raphaël Miazza and Paolo Benettin  
 > Institute of Earth Surface Dynamics, Université de Lausanne, Switzerland  
 > _Submitted, 2025_  
-> [DOI or Preprint Link, when available]
+> https://doi.org/10.22541/essoar.174461783.34658765/v1
 
 ---
 
